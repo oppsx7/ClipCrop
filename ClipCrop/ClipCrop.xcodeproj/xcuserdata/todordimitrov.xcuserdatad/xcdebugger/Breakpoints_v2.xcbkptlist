@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9FE49F67-C094-42BD-8BFD-C9220F69DAE5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8CDEA06-195E-4272-8C6F-2B4006926D1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/ClipCrop-ehdeiipapwgmkccmqotxuhyqucho/Index.noindex/Build/Intermediates.noindex/ClipCrop.build/Debug-iphonesimulator/ClipCrop.build/DerivedSources/CoreMLGenerated/DeepLabV3/DeepLabV3.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "init(configuration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B8654EC-8542-4341-BD34-ED9DBA67C8B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/ClipCrop-ehdeiipapwgmkccmqotxuhyqucho/Index.noindex/Build/Intermediates.noindex/ClipCrop.build/Debug-iphonesimulator/ClipCrop.build/DerivedSources/CoreMLGenerated/DeepLabV3/DeepLabV3.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "urlOfModelInThisBundle"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

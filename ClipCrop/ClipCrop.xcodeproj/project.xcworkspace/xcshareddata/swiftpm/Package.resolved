@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "backgroundremoval",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Ezaldeen99/BackgroundRemoval.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "82a2f87522e14ebe5db64281a4cd1ce6596e803a"
+      }
+    },
+    {
+      "identity" : "fyphoto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/T2Je/FYPhoto",
+      "state" : {
+        "revision" : "570084ac08f4a81f54563a2592bb64d9deb10a23",
+        "version" : "2.2.10"
+      }
+    },
+    {
+      "identity" : "fyvideocompressor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/T2Je/FYVideoCompressor.git",
+      "state" : {
+        "revision" : "de6682c33825ffb1248bc1e817bfc27e7490797e",
+        "version" : "0.0.8"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "80683c20d8f15e10ac1ce605cca5008a295846bd",
+        "version" : "5.14.1"
+      }
+    }
+  ],
+  "version" : 2
+}
